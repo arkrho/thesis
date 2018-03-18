@@ -1,0 +1,95 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{MOECONVERGENCE}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Moe},
+         familyi={M\bibinitperiod},
+         given={Kiel},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{MK1}
+    \strng{fullhash}{MK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{subtitle}{An Architectural Agenda for Energy}
+    \field{title}{Convergence}
+    \field{year}{2013}
+  \endentry
+
+  \entry{MOEIM}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Moe},
+         familyi={M\bibinitperiod},
+         given={Kiel},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Birkhauser}%
+    }
+    \strng{namehash}{MK1}
+    \strng{fullhash}{MK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{subtitle}{Isolated and Non-Isolated Thermodynamics in Architecture}
+    \field{title}{Insulating Modernism}
+    \field{year}{2014}
+  \endentry
+
+  \entry{MOEHEA}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MK}{%
+         family={Moe},
+         familyi={M\bibinitperiod},
+         given={Kiel},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Srinivasan},
+         familyi={S\bibinitperiod},
+         given={Ravi},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{MKSR1}
+    \strng{fullhash}{MKSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{subtitle}{Emergy Analysis}
+    \field{title}{The Hierarchy of Energy in Architecture}
+    \field{year}{2015}
+  \endentry
+\enddatalist
+\endinput
