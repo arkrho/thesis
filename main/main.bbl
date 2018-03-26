@@ -17,36 +17,142 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
-  \entry{NICOMACHEANETHICS}{book}{}
-    \name{author}{3}{}{%
-      {{hash=A}{%
-         family={Aristotle},
-         familyi={A\bibinitperiod},
-      }}%
-      {{hash=RWD}{%
-         family={Ross},
-         familyi={R\bibinitperiod},
-         given={W.\bibnamedelima D.},
-         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
-      }}%
-      {{hash=BL}{%
-         family={Brown},
+  \entry{CONSHISTORY}{inbook}{}
+  \endentry
+
+  \entry{TOWERANDBRIDGE}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BDP}{%
+         family={Billington},
          familyi={B\bibinitperiod},
-         given={Lesley},
+         given={David\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{BDP1}
+    \strng{fullhash}{BDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{subtitle}{The New Art of Structural Engineering}
+    \field{title}{The Tower and the Bridge}
+    \field{year}{1983}
+  \endentry
+
+  \entry{RETROFITTINGMASONRY}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=BP}{%
+         family={Block},
+         familyi={B\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=MK}{%
+         family={Moe},
+         familyi={M\bibinitperiod},
+         given={Kiel},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SRE}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Ryan\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{BP1}
+    \strng{fullhash}{BP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{Building systems : design, technology, and society}
+    \field{pages}{73 \bibrangedash  85}
+    \field{title}{Retrofitting and Redacting Masonry Engineering}
+    \field{year}{2012}
+  \endentry
+
+  \entry{EIFFELTOWER}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ddltES}{%
+         prefix={d'Exploitation de la\bibnamedelima tour},
+         prefixi={d\bibinitperiod\bibinitdelim d\bibinitperiod
+  l\bibinitperiod\bibinitdelim t\bibinitperiod},
+         family={Eiffel},
+         familyi={E\bibinitperiod},
+         given={Sociéte},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ESddlt1}
+    \strng{fullhash}{ESddlt1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{note}{[Accessed 03/20/2018]}
+    \field{title}{Origins and Construction of the Eiffel Tower}
+    \verb{url}
+    \verb \url{https://www.toureiffel.paris/en/the-monument/history}
+    \endverb
+  \endentry
+
+  \entry{SPACETIMEARCHITECTURE}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GS}{%
+         family={Giedion},
+         familyi={G\bibinitperiod},
+         given={Sigfried},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \strng{namehash}{GS1}
+    \strng{fullhash}{GS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{subtitle}{The Growth of a New Tradition}
+    \field{title}{Space, Time, and Architecture}
+    \field{year}{1982}
+  \endentry
+
+  \entry{MYTHMACHINE}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={Mumford},
+         familyi={M\bibinitperiod},
+         given={Lewis},
          giveni={L\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
-      {Oxford University Press}%
+      {Columbia University Press}%
     }
-    \strng{namehash}{ARWDBL1}
-    \strng{fullhash}{ARWDBL1}
+    \strng{namehash}{ML1}
+    \strng{fullhash}{ML1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{title}{The Nicomachean ethics}
-    \field{year}{2009}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{subtitle}{The Pentagon of Power}
+    \field{title}{The Myth of the Machine}
+    \field{year}{1970}
   \endentry
 \enddatalist
 \endinput
