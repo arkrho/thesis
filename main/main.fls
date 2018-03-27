@@ -120,10 +120,10 @@ INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmti9.tfm
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/arkrho/Thesis/document/images/crystalpalacebw.png
-INPUT /Users/arkrho/Thesis/document/images/crystalpalacebw.png
-INPUT /Users/arkrho/Thesis/document/images/crystalpalacebw.png
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Users/arkrho/Thesis/document/images/crystalpalacebw.png
+INPUT /Users/arkrho/Thesis/document/images/crystalpalacebw.png
+INPUT /Users/arkrho/Thesis/document/images/crystalpalacebw.png
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT main.aux
