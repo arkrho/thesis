@@ -20,6 +20,9 @@
   \entry{CONSHISTORY}{inbook}{}
   \endentry
 
+  \entry{IRON}{inbook}{}
+  \endentry
+
   \entry{TOWERANDBRIDGE}{book}{}
     \name{author}{1}{}{%
       {{hash=BDP}{%

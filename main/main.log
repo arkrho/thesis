@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.18)  25 MAR 2018 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.18)  27 MAR 2018 13:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,22 +439,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 29.
  [1
 
-{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (../introduction/introduction.tex [2
+{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (../introduction/introduction.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+ [2
 
-] [3
-
-] </Users/arkrho/Thesis/document/images/crystalpalacebw.png, id=19, 639.38875pt x 413.545pt>
+] </Users/arkrho/Thesis/document/images/crystalpalacebw.png, id=16, 639.38875pt x 413.545pt>
 File: /Users/arkrho/Thesis/document/images/crystalpalacebw.png Graphic file (type png)
  <use /Users/arkrho/Thesis/document/images/crystalpalacebw.png>
-Package pdftex.def Info: /Users/arkrho/Thesis/document/images/crystalpalacebw.png used on input line 39.
+Package pdftex.def Info: /Users/arkrho/Thesis/document/images/crystalpalacebw.png used on input line 29.
 (pdftex.def)             Requested size: 300.51274pt x 194.36617pt.
- [4 </Users/arkrho/Thesis/document/images/crystalpalacebw.png (PNG copy)>]) [5]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3
+
+] [4 </Users/arkrho/Thesis/document/images/crystalpalacebw.png (PNG copy)>]) [5]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 58.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 58.
 
 Overfull \hbox (9.86948pt too wide) in paragraph at lines 59--59
 \OT1/cmr/m/n/10 [Ac-cessed 03/20/2018]. \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : $\OT1/cmtt/m/n/10 \url{https : / / www . toureiffel . paris / en / the -[] monument /
@@ -468,15 +473,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8808 strings out of 494437
- 155079 string characters out of 6166645
+ 8810 strings out of 494437
+ 155152 string characters out of 6166645
  408604 words of memory out of 5000000
- 12060 multiletter control sequences out of 15000+600000
+ 12062 multiletter control sequences out of 15000+600000
  9354 words of font info for 33 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  41i,7n,45p,1268b,1313s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (6 pages, 418017 bytes).
+Output written on main.pdf (6 pages, 414387 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
