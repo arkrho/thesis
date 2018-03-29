@@ -23,6 +23,38 @@
   \entry{IRON}{inbook}{}
   \endentry
 
+  \entry{NICOMACHEANETHICS}{book}{}
+    \name{author}{3}{}{%
+      {{hash=A}{%
+         family={Aristotle},
+         familyi={A\bibinitperiod},
+      }}%
+      {{hash=RWD}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={W.\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Lesley},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{ARWDBL1}
+    \strng{fullhash}{ARWDBL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{The Nicomachean ethics}
+    \field{year}{2009}
+  \endentry
+
   \entry{TOWERANDBRIDGE}{book}{}
     \name{author}{1}{}{%
       {{hash=BDP}{%
@@ -87,52 +119,27 @@
     \field{year}{2012}
   \endentry
 
-  \entry{EIFFELTOWER}{misc}{}
+  \entry{RAMMEDEARTHHOUSE}{book}{}
     \name{author}{1}{}{%
-      {{hash=ddltES}{%
-         prefix={d'Exploitation de la\bibnamedelima tour},
-         prefixi={d\bibinitperiod\bibinitdelim d\bibinitperiod
-  l\bibinitperiod\bibinitdelim t\bibinitperiod},
-         family={Eiffel},
-         familyi={E\bibinitperiod},
-         given={Sociéte},
-         giveni={S\bibinitperiod},
+      {{hash=MAF}{%
+         family={Merrill},
+         familyi={M\bibinitperiod},
+         given={Anthony\bibnamedelima F.},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
       }}%
     }
-    \strng{namehash}{ESddlt1}
-    \strng{fullhash}{ESddlt1}
+    \list{publisher}{2}{%
+      {Harper}%
+      {Brothers}%
+    }
+    \strng{namehash}{MAF1}
+    \strng{fullhash}{MAF1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{E}
-    \field{sortinithash}{E}
-    \field{note}{[Accessed 03/20/2018]}
-    \field{title}{Origins and Construction of the Eiffel Tower}
-    \verb{url}
-    \verb \url{https://www.toureiffel.paris/en/the-monument/history}
-    \endverb
-  \endentry
-
-  \entry{SPACETIMEARCHITECTURE}{book}{}
-    \name{author}{1}{}{%
-      {{hash=GS}{%
-         family={Giedion},
-         familyi={G\bibinitperiod},
-         given={Sigfried},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Harvard University Press}%
-    }
-    \strng{namehash}{GS1}
-    \strng{fullhash}{GS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{G}
-    \field{sortinithash}{G}
-    \field{subtitle}{The Growth of a New Tradition}
-    \field{title}{Space, Time, and Architecture}
-    \field{year}{1982}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Rammed Earth House}
+    \field{year}{1947}
   \endentry
 
   \entry{MYTHMACHINE}{book}{}
@@ -156,6 +163,28 @@
     \field{subtitle}{The Pentagon of Power}
     \field{title}{The Myth of the Machine}
     \field{year}{1970}
+  \endentry
+
+  \entry{CHINESEARCHITECTURE}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SNS}{%
+         family={Steinhardt},
+         familyi={S\bibinitperiod},
+         given={Nancy\bibnamedelima Shatzman.},
+         giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Yale University Press}%
+    }
+    \strng{namehash}{SNS1}
+    \strng{fullhash}{SNS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Chinese architecture}
+    \field{year}{2002}
   \endentry
 \enddatalist
 \endinput
