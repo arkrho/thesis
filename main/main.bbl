@@ -23,6 +23,28 @@
   \entry{IRON}{inbook}{}
   \endentry
 
+  \entry{SYNOFFORM}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AC}{%
+         family={Alexander},
+         familyi={A\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard Univ. Press}%
+    }
+    \strng{namehash}{AC1}
+    \strng{fullhash}{AC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Notes on the synthesis of form}
+    \field{year}{2002}
+  \endentry
+
   \entry{NICOMACHEANETHICS}{book}{}
     \name{author}{3}{}{%
       {{hash=A}{%
