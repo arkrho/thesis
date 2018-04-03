@@ -39,6 +39,30 @@
     \field{year}{2002}
   \endentry
 
+  \entry{NATHISTORY}{book}{}
+    \name{author}{1}{}{%
+      {{hash=tEP}{%
+         prefix={the},
+         prefixi={t\bibinitperiod},
+         family={Elder},
+         familyi={E\bibinitperiod},
+         given={Pliny},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Loeb Classical History (Cambridge, MA)}%
+    }
+    \strng{namehash}{EPt1}
+    \strng{fullhash}{EPt1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Natural History, IX}
+    \field{year}{1942}
+  \endentry
+
   \entry{RAMMEDEARTHHOUSE}{book}{}
     \name{author}{1}{}{%
       {{hash=MAF}{%
@@ -60,6 +84,28 @@
     \field{sortinithash}{M}
     \field{title}{The Rammed Earth House}
     \field{year}{1947}
+  \endentry
+
+  \entry{PENTAGON}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={Mumford},
+         familyi={M\bibinitperiod},
+         given={Lewis},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Columbia University Press}%
+    }
+    \strng{namehash}{ML1}
+    \strng{fullhash}{ML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{The Pentagon of Power}
+    \field{year}{1970}
   \endentry
 \enddatalist
 \endinput
