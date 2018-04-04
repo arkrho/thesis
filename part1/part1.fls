@@ -4,7 +4,7 @@ INPUT /usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT part1.tex
 OUTPUT part1.log
+INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 OUTPUT part1.pdf
 INPUT /usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

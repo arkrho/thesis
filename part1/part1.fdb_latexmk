@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1522599599 "part1.tex" "part1.pdf" "part1" 1522599599
+["pdflatex"] 1522793080 "part1.tex" "part1.pdf" "part1" 1522793080
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1480098701 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
@@ -7,7 +7,7 @@
   "/usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1521417559 2588968 747faf079864f678eb8287de61020434 ""
   "/usr/local/texlive/2017basic/texmf.cnf" 1496851631 628 b344fac068e513a3e5fe2214c3a47398 ""
   "part1.aux" 1522557542 8 a94a2480d3289e625eea47cd1b285758 ""
-  "part1.tex" 1522564384 2668 605131f0fee5b5a3f9487ce65ef8f47d ""
+  "part1.tex" 1522793049 5359 b500f6636dc585876f31ce9001834d2e ""
   (generated)
   "part1.pdf"
   "part1.log"
