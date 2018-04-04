@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex main"] 1522779248 "main.aux" "main.bbl" "main" 1522815355
+["bibtex main"] 1522861039 "main.aux" "main.bbl" "main" 1522864509
   "../bib/bibliography.bib" 1522690785 7353 5fba373c74ffe44fa9a831fe62268478 ""
   "/usr/local/texlive/2017basic/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1510525977 63137 1eef042be76fa9262fed2413ad573404 ""
-  "main-blx.bib" 1522815354 306 8aaf130409042efa77015fcb01433692 ""
-  "main.aux" 1522815354 1200 320591f61db6122d1cafebf7a358ae94 ""
+  "main-blx.bib" 1522864509 306 8aaf130409042efa77015fcb01433692 ""
+  "main.aux" 1522864509 1266 8e080bbb1cb9e01ef2a67d36b91b8ab9 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1522815354 "main.tex" "main.pdf" "main" 1522815355
-  "../part1/part1.tex" 1522795693 5359 ae1b4fc77b12db02ad5d23b1c30d3162 ""
+  "main.bbl"
+["pdflatex"] 1522864508 "main.tex" "main.pdf" "main" 1522864509
+  "../part1/part1.tex" 1522864500 6161 b447e6ec7a4c22304ee4d1e5c4fcdbbd ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1480098701 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2017basic/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1480098701 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -85,15 +85,15 @@
   "/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1522022465 82333 557f4abe84ed389f2d5ad892b1a15d34 ""
   "/usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1521417559 2588968 747faf079864f678eb8287de61020434 ""
   "/usr/local/texlive/2017basic/texmf.cnf" 1496851631 628 b344fac068e513a3e5fe2214c3a47398 ""
-  "main.aux" 1522815354 1200 320591f61db6122d1cafebf7a358ae94 ""
-  "main.bbl" 1522779249 2772 88135c9a2441cbba4bbbe28defe5fcf7 "bibtex main"
-  "main.run.xml" 1522815354 2527 fc1c9cd522910cca7624a22757f41dd5 ""
+  "main.aux" 1522864509 1266 8e080bbb1cb9e01ef2a67d36b91b8ab9 ""
+  "main.bbl" 1522861039 2772 88135c9a2441cbba4bbbe28defe5fcf7 "bibtex main"
+  "main.run.xml" 1522864509 2527 fc1c9cd522910cca7624a22757f41dd5 ""
   "main.tex" 1522779189 2039 415002d4581eeba3ee2fb3491a4fd0eb ""
   (generated)
+  "main.pdf"
   "main.log"
+  "main.aux"
+  "main.toc"
+  "main.bcf"
   "main-blx.bib"
   "main.run.xml"
-  "main.aux"
-  "main.pdf"
-  "main.bcf"
-  "main.toc"
