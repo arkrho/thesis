@@ -39,6 +39,26 @@
     \field{year}{2002}
   \endentry
 
+  \entry{GARDENDALE}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CJL}{%
+         family={Carpenter},
+         familyi={C\bibinitperiod},
+         given={Jennifer\bibnamedelima Lynn},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJL1}
+    \strng{fullhash}{CJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{DIRT CHEAP: THE GARDENDALE EXPERIMENT AND RAMMED EARTH HOME
+  CONSTRUCTION IN THE UNITED STATES}
+    \field{year}{2010}
+  \endentry
+
   \entry{NATHISTORY}{book}{}
     \name{author}{1}{}{%
       {{hash=tEP}{%
@@ -84,28 +104,6 @@
     \field{sortinithash}{M}
     \field{title}{The Rammed Earth House}
     \field{year}{1947}
-  \endentry
-
-  \entry{PENTAGON}{book}{}
-    \name{author}{1}{}{%
-      {{hash=ML}{%
-         family={Mumford},
-         familyi={M\bibinitperiod},
-         given={Lewis},
-         giveni={L\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Columbia University Press}%
-    }
-    \strng{namehash}{ML1}
-    \strng{fullhash}{ML1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{title}{The Pentagon of Power}
-    \field{year}{1970}
   \endentry
 \enddatalist
 \endinput
