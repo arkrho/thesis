@@ -17,70 +17,24 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
-  \entry{SYNOFFORM}{book}{}
+  \entry{ORIGINSOFSUS}{misc}{}
     \name{author}{1}{}{%
-      {{hash=AC}{%
-         family={Alexander},
-         familyi={A\bibinitperiod},
-         given={Christopher},
+      {{hash=KC}{%
+         family={Kelly},
+         familyi={K\bibinitperiod},
+         given={Charlotte},
          giveni={C\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {Harvard Univ. Press}%
-    }
-    \strng{namehash}{AC1}
-    \strng{fullhash}{AC1}
+    \strng{namehash}{KC1}
+    \strng{fullhash}{KC1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{title}{Notes on the synthesis of form}
-    \field{year}{2002}
-  \endentry
-
-  \entry{GARDENDALE}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=CJL}{%
-         family={Carpenter},
-         familyi={C\bibinitperiod},
-         given={Jennifer\bibnamedelima Lynn},
-         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{CJL1}
-    \strng{fullhash}{CJL1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \field{title}{DIRT CHEAP: THE GARDENDALE EXPERIMENT AND RAMMED EARTH HOME
-  CONSTRUCTION IN THE UNITED STATES}
-    \field{year}{2010}
-  \endentry
-
-  \entry{NATHISTORY}{book}{}
-    \name{author}{1}{}{%
-      {{hash=tEP}{%
-         prefix={the},
-         prefixi={t\bibinitperiod},
-         family={Elder},
-         familyi={E\bibinitperiod},
-         given={Pliny},
-         giveni={P\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Loeb Classical History (Cambridge, MA)}%
-    }
-    \strng{namehash}{EPt1}
-    \strng{fullhash}{EPt1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{E}
-    \field{sortinithash}{E}
-    \field{title}{Natural History, IX}
-    \field{year}{1942}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{subtitle}{Report for Task 1.1 -- Appraisal of Sustainability
+  Project}
+    \field{title}{Origins of Sustainability}
   \endentry
 
   \entry{RAMMEDEARTHHOUSE}{book}{}
@@ -104,6 +58,29 @@
     \field{sortinithash}{M}
     \field{title}{The Rammed Earth House}
     \field{year}{1947}
+  \endentry
+
+  \entry{MOECONVERGENCE}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Moe},
+         familyi={M\bibinitperiod},
+         given={Kiel},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{MK1}
+    \strng{fullhash}{MK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{subtitle}{An Architectural Agenda for Energy}
+    \field{title}{Convergence}
+    \field{year}{2013}
   \endentry
 \enddatalist
 \endinput

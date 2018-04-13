@@ -1,6 +1,0 @@
-PWD /Users/bpvsgr/Desktop/4W/document/outline
-INPUT /usr/local/texlive/2017basic/texmf.cnf
-INPUT /usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT outline.tex
-OUTPUT outline.log
