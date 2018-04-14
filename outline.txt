@@ -1,24 +1,28 @@
 INTRODUCTION
 
 BUILDING GROUND FOR OPEN RAMMED-EARTH SYSTEM DESIGN
-  --- The Entropy Crisis
-
   --- Architectural Theory about Thermodynamics and Thermodynamical Theory about Architectures
-        ++ Constructal Law
+    ## Architectural Agenda for Energy
+      @@ Insulated Modernism
+        && Epistemological Setting
+      @@ Thermally Active Surfaces
+        && Technical Setting
+      @@ Convergence
+        && Practical Setting
+      @@ The Hierarchy of Energy in Architecture
+        && Physical Setting
 
-        ++ Architectural Agenda for Energy
+    ## Constructal Law
 
   --- Bourne-again Shells: Computation in Building
-        ++ Somatosensory Computation of Ancients
-          ** Chart of sense tests
+    ## Somatosensory Computation of Ancients
+      ++ Chart of Senses
 
-        ++ Open-Source Architecture
-          ** WikiHouse
+    ## Open-Source Architecture
+        ** WikiHouse
 
-        ++ Parametric Design
-          ** Flux/Autotune
-
-
+    ## Parametric Design
+        ** Flux/Grasshopper Plugins/Autotune
 
 
 TWO RAMMED-EARTH DESIGN HEURISTICS
