@@ -17,26 +17,6 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
-  \entry{ORIGINSOFSUS}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=KC}{%
-         family={Kelly},
-         familyi={K\bibinitperiod},
-         given={Charlotte},
-         giveni={C\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{KC1}
-    \strng{fullhash}{KC1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{K}
-    \field{sortinithash}{K}
-    \field{subtitle}{Report for Task 1.1 -- Appraisal of Sustainability
-  Project}
-    \field{title}{Origins of Sustainability}
-  \endentry
-
   \entry{RAMMEDEARTHHOUSE}{book}{}
     \name{author}{1}{}{%
       {{hash=MAF}{%

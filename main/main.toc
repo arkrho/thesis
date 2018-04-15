@@ -1,15 +1,23 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Preface}{3}
+\contentsline {section}{\numberline {1}INTRODUCTION}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}BUILT EARTH}{5}
+\contentsline {section}{\numberline {2}BUILDING GROUND FOR OPEN RAMMED-EARTH SYSTEM DESIGN}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Sustainable Development as Such}{5}
+\contentsline {subsection}{\numberline {2.1}Architectural Theory about Thermodynamics and Thermodynamical Theory about Architectures}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Materials and Products}{5}
+\contentsline {subsubsection}{\numberline {2.1.1}An Architectural Agenda for Energy}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Veritable Sustainability?}{5}
+\contentsline {subsubsection}{\numberline {2.1.2}Constructal Design}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}THERMODYNAMIC EARTH}{6}
+\contentsline {subsection}{\numberline {2.2}Bourne-Again Shells: Computation in Building}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}COMPUTATIONAL EARTH}{7}
+\contentsline {subsubsection}{\numberline {2.2.1}Open-Source Architecture}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2}Parametric Design}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}SYSTEMS OF DESIGN}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Collaborative Standardization}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Remotely Sensing the Soilscape}{4}
