@@ -2,22 +2,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}INTRODUCTION}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}BUILDING GROUND FOR OPEN RAMMED-EARTH SYSTEM DESIGN}{4}
+\contentsline {section}{\numberline {2}BUILDING GROUND FOR OPEN RAMMED-EARTH SYSTEM DESIGN}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Architectural Theory about Thermodynamics and Thermodynamical Theory about Architectures}{4}
+\contentsline {subsection}{\numberline {2.1}An Architectural Theory about Thermodynamics and A Thermodynamical Theory about Architectures}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1}An Architectural Agenda for Energy}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}An Architectural Agenda for Energy}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.2}Constructal Design}{4}
+\contentsline {subsubsection}{\numberline {2.1.2}Constructal Design}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Bourne-Again Shells: Computation in Building}{4}
+\contentsline {subsection}{\numberline {2.2}Bourne-Again Shells: Computation in Building}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Open-Source Architecture}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}Codification}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2}Parametric Design}{4}
+\contentsline {subsubsection}{\numberline {2.2.2}Open-Source Architecture}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}SYSTEMS OF DESIGN}{4}
+\contentsline {subsubsection}{\numberline {2.2.3}Parametric Design}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Collaborative Standardization}{4}
+\contentsline {section}{\numberline {3}SYSTEMS OF DESIGN}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Remotely Sensing the Soilscape}{4}
+\contentsline {subsection}{\numberline {3.1}Collaborative Standardization}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Remotely Sensing the Soilscape}{5}

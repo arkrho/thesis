@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.18)  15 APR 2018 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.18)  17 APR 2018 23:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -450,9 +450,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2
 
-] (../introduction/introduction.tex) [3
+] (../introduction/introduction.tex [3
 
-] (../building_ground/building_ground.tex) (../building_computation/building_computation.tex) (../programs/programs.tex) [4
+])
+Overfull \hbox (1.29738pt too wide) in paragraph at lines 28--43
+[]\OT1/cmr/m/n/10 What fol-lows is an at-tempt to demon-strate the above hy-poth-e-sis [the co-her-ence (several-thousand-
+ []
+
+
+Overfull \hbox (2.76976pt too wide) in paragraph at lines 28--43
+\OT1/cmr/m/n/10 year his-tory of ac-cu-mu-la-tive knowl-edge and per-for-mance) of the ``tra-di-tional" rammed-earth material-
+ []
+
+[4
+
+] (../building_ground/building_ground.tex) (../building_computation/building_computation.tex) (../programs/programs.tex) [5
 
 ] (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -460,18 +472,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8801 strings out of 494437
- 154645 string characters out of 6166645
- 407606 words of memory out of 5000000
- 12043 multiletter control sequences out of 15000+600000
- 8885 words of font info for 31 fonts, out of 8000000 for 9000
+ 8806 strings out of 494437
+ 154764 string characters out of 6166645
+ 408606 words of memory out of 5000000
+ 12047 multiletter control sequences out of 15000+600000
+ 9053 words of font info for 32 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 41i,6n,45p,1241b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on main.pdf (4 pages, 127345 bytes).
+ 41i,8n,45p,1234b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on main.pdf (5 pages, 152193 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
